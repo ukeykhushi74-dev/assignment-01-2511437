@@ -1,0 +1,38 @@
+[
+{
+  "product_id": "E101",
+  "name": "Samsung 4K Smart TV",
+  "category": "Electronics",
+  "price": 45000,
+  "brand": "Samsung",
+  "specifications": {
+    "warranty_years": 2,
+    "voltage": "220V",
+    "screen_size": "55 inch"
+  }
+},
+
+{
+  "product_id": "C101",
+  "name": "Men Cotton T-Shirt",
+  "category": "Clothing",
+  "price": 999,
+  "brand": "Levis",
+  "sizes_available": ["S","M","L","XL"],
+  "material": "Cotton"
+},
+
+{
+  "product_id": "G101",
+  "name": "Organic Milk",
+  "category": "Groceries",
+  "price": 80,
+  "brand": "Amul",
+  "expiry_date": "2024-12-30",
+  "nutrition": {
+    "protein": "3.4g",
+    "fat": "3.5g",
+    "calcium": "120mg"
+  }
+}
+]
